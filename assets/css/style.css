@@ -19,6 +19,7 @@ h1{
 h2{
     font-family:'noto sans',sans-serif;
 }
+
 .imgprinc{
     width:233px;
     height: 250px;
@@ -41,6 +42,9 @@ h2{
 .arene{
     grid-row: 2/3;
     grid-column: 2/3;
+}
+#head p{
+    display: none;
 }
 .compteComp{
     grid-row: 2/3;
